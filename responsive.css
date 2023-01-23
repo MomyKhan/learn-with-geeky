@@ -1,0 +1,20 @@
+@media  screen and (max-width:700px){
+    .navbar-mob{
+        display: block;
+    }
+    .list>ul{
+        display: none;
+    }
+    .navbar-mob>ul{
+        display: none;
+    }
+    .icon-for-list>i{
+        position: absolute;
+        top: 15px;
+        right: 20px;
+    }
+    .icon-for-list>.fa-times{
+        display: none;
+    }
+}
+    
